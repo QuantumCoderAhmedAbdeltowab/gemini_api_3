@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sentence-transformers
+faiss-cpu
+google-generativeai
+pandas
+numpy
+google-auth
+python-dotenv
