@@ -1,8 +1,1 @@
-# ignore everything except these files
-**
 
-!Dockerfile
-!requirements.txt
-!main.py
-!context.txt
-!phishaware_sheet.csv
